@@ -47,7 +47,7 @@ const ClubsProjectsSection = () => {
                     <div className="flex justify-evenly flex-col items-center md:flex-row">
                         <Project logo={GDG} text="Inventory app" />
                         <Project logo={SOAI} text="School of AI discord bot (Unfinished)"/>
-                        <Project logo={Shellmates} text="Poney racing plateform (Unfinished)"/>
+                        <Project logo={Shellmates} text="Pwny racing plateform (Unfinished)"/>
                     </div>
                 </div>
             </div>
